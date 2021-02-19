@@ -186,8 +186,9 @@ a.btn:hover {
 
 .training-item {
     width: 22%;
-    border: 1px solid gray;
+    border: 0.7px solid #af81ad;
     border-radius: 5px;
+    border-top: none;
     margin: 2% 0;
     display: flex;
     justify-content: center;
@@ -213,7 +214,8 @@ a.btn:hover {
     text-align: center;
 }
 .training-item .card p {
-    width: 100%;
+    width: 95%;
+    margin-left: 2%;
     font-size: 0.8em;
 }
 
