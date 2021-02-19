@@ -3,3 +3,5 @@
 
 Sognare means "dream" in Italian. Nowadays, the online training is one of the best ways for to achieve dreams. I designed and coded this project. I will develop with new features.
 
+You can view this project from [here](https://alpercevizz.github.io/Sognare-Project/)
+
