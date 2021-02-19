@@ -548,7 +548,7 @@ footer div.icons i.instagram {
 
     div.wrap {
         width: 100%;
-        
+        contain: content;
     }
 
     div.banner {
