@@ -8,28 +8,28 @@ const userImage = document.querySelector(".user-image");
 const testimonials = [
     {
         name: "Jill Willamson",
-        photo: "./sognare-images/jill.jpg",
+        photo: "./jill.jpg",
         role: "Student",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, suscipit officiis voluptates earum odit nostrum."
     },
 
     {
         name: "Serenity Curtis",
-        photo: "./sognare-images/serenity.jpg",
+        photo: "./serenity.jpg",
         role: "Designer",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, suscipit officiis voluptates earum odit nostrum. Lorem ipsum dolor."
     },
 
     {
         name: "Joe Coleman",
-        photo: "./sognare-images/joe.jpg",
+        photo: "./joe.jpg",
         role: "Artist",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, suscipit officiis voluptates earum odit nostrum. Lorem ipsum sit amet consectetur."
     },
 
     {
         name: "Lena Baker",
-        photo: "./sognare-images/lena.jpg",
+        photo: "./lena.jpg",
         role: "Computer Engineer",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, suscipit officiis voluptates earum odit nostrum. Lorem."
     }
@@ -48,5 +48,5 @@ function changeTheTestimonials() {
     }
 }
 
-setInterval(changeTheTestimonials, 6000);
+setInterval(changeTheTestimonials, 4000);
 
