@@ -616,6 +616,10 @@ footer div.icons i.instagram {
     .testimonial-item {
         width: 70% !important;
     }
+    
+    .testimonial-item h4 {
+        padding-top: 6%;
+    }
 
     section#form-group .container .form {
         width: 100%;
